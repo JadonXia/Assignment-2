@@ -1,0 +1,23 @@
+#title {
+  background-color: white;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid black;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  border: 2px solid black;
+}
+
+.paragraph {
+  background-color: white;
+  color: black;
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+}
