@@ -3,7 +3,7 @@
   color: black;
   padding: 20px;
   text-align: center;
-  border: 2px solid black;
+  width: 600px;
 }
 
 img {
@@ -17,7 +17,14 @@ img {
 .paragraph {
   background-color: white;
   color: black;
+  width: 1200px;
+  font-size: 120%
+}
+
+div {
   margin: 5px;
-  padding: 5px;
-  border: 1px solid black;
+  padding: 1px;
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
 }
