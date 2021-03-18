@@ -6,20 +6,10 @@
   width: 600px;
 }
 
-#img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 5px;
-  border: 2px solid black;
-  width: 300px;
-  height: 400px;
-}
-
 .paragraph {
   background-color: white;
   color: black;
-  width: 1200px;
+  width: 78%;
   font-size: 120%;
 }
 
@@ -43,15 +33,4 @@ body {
   border: 2px solid black;
   width: 25%;
   height: 25%;
-}
-
-.gallery {
-  background-color: white;
-  color: black;
-  padding: 20px;
-  text-align: center;
-  width: 600px;
-  position: fixed;
-  left: 29%;
-  bottom: 13%;
 }
